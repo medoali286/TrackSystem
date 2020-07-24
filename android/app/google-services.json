@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1049593966808",
+    "firebase_url": "https://smart-visitor-231007.firebaseio.com",
+    "project_id": "smart-visitor-231007",
+    "storage_bucket": "smart-visitor-231007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049593966808:android:c47764dd829d41581da7ad",
+        "android_client_info": {
+          "package_name": "com.example.firebase_track_location"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwSkIlgysLcxrCzLOvB6d1SW1vdBe1RWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
